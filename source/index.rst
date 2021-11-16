@@ -6,6 +6,10 @@
 Welcome to Guideline Support Library's documentation!
 =====================================================
 
+.. warning::
+
+  This is work in progress and is subject to change.
+
 .. toctree::
   :maxdepth: 1
   :caption: Contents:
