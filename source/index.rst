@@ -12,10 +12,16 @@ Welcome to Guideline Support Library's documentation!
 
 .. toctree::
   :maxdepth: 1
-  :caption: Contents:
+  :caption: Containers
 
-  header_files
   span
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Miscellaneous:
+
+  error_handling
+  header_files
   todolist
 
 Indices and tables

@@ -1,4 +1,4 @@
-Span
+span
 ====
 
 .. namespace:: gsl
